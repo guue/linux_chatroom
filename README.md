@@ -1,2 +1,3 @@
 # linux_chatroom
 group chat; private chat ; file send(bug)....
+![image](https://github.com/guue/linux_chatroom/assets/115855430/d45ff8ac-ad8b-4b72-8e1c-64611835ff34)
